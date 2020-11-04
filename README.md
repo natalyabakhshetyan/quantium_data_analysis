@@ -2,9 +2,9 @@
 
 This is a Data Analytics project consisting of 3 main objectives to help a business make strategic decisions.
 
-Task 1: Data preperation and customer analysis
-Task 2: Experimentation and uplift testing
-Task 3: Analytics and commercial applications
+1.  Data preperation and customer analysis
+2. Experimentation and uplift testing
+3. Analytics and commercial applications
 
 ## Navigation
 
